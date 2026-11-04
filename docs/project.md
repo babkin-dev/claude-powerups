@@ -2,13 +2,13 @@
 title: "claude-powerups project"
 status: active
 created: 2026-09-06
-last_updated: 2026-09-06
+last_updated: 2026-11-04
 tags: [project-documentation]
 ---
 
 # Claude Powerups
 
-Open-source Claude Code skills and plugins. GitHub: `Mykhailobabkin/claude-powerups` (public).
+Open-source Claude Code skills and plugins. GitHub: `babkin-dev/claude-powerups` (public).
 
 ## Components
 
@@ -44,7 +44,7 @@ Interactive wizard that builds Obsidian vaults with SQLite + Python scripts. Two
 claude --plugin-dir ./plugins/personal-os
 
 # Marketplace
-/plugin marketplace add Mykhailobabkin/claude-powerups
+/plugin marketplace add babkin-dev/claude-powerups
 ```
 
 ## Documentation ownership

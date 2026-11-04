@@ -21,7 +21,7 @@ Skills and plugins that give Claude Code new capabilities. Drop them in and they
 ### Everything at once
 
 ```bash
-git clone https://github.com/Mykhailobabkin/claude-powerups.git
+git clone https://github.com/babkin-dev/claude-powerups.git
 cd claude-powerups
 ./install.sh
 pip3 install youtube-transcript-api   # for YouTube Analyze
@@ -30,7 +30,7 @@ pip3 install youtube-transcript-api   # for YouTube Analyze
 ### Just one skill
 
 ```bash
-git clone https://github.com/Mykhailobabkin/claude-powerups.git
+git clone https://github.com/babkin-dev/claude-powerups.git
 mkdir -p ~/.claude/skills
 
 # Pick what you need:
@@ -41,7 +41,7 @@ cp -r claude-powerups/skills/obsidian/obsidian-cleanup ~/.claude/skills/
 ### Via Plugin Marketplace
 
 ```
-/plugin marketplace add Mykhailobabkin/claude-powerups
+/plugin marketplace add babkin-dev/claude-powerups
 /plugin install personal-os@claude-powerups
 ```
 
@@ -147,7 +147,7 @@ claude-powerups/
 
 ## Contributing
 
-Have an idea for a power-up? [Open an issue](https://github.com/Mykhailobabkin/claude-powerups/issues) or submit a PR.
+Have an idea for a power-up? [Open an issue](https://github.com/babkin-dev/claude-powerups/issues) or submit a PR.
 
 ## Credits
 

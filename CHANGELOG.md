@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Update current project links to `babkin-dev` and retire the already-disabled generated GitHub documentation check; local Git checks remain enforced and application behavior is unchanged.
+
 - **One editable agent guide.** Project instructions now live in AGENTS.md with compatibility links for other tools; duplicated shared conventions were removed. Shared Git checks and automatically refreshed CI checks replace the old per-repo policy bundle. Application behavior is unchanged.
 - **Shared documentation checks.** Added model-neutral rule entry points, staged-file checks and CI validation; consolidated current project navigation. Application behaviour is unchanged.
 
