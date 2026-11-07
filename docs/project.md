@@ -2,8 +2,19 @@
 title: "claude-powerups project"
 status: active
 created: 2026-09-06
-last_updated: 2026-11-04
+last_updated: 2026-11-07
 tags: [project-documentation]
+area: personal
+client: "personal"
+purpose: "Open-source Claude Code skills and plugins Misha publishes: Personal OS, Obsidian skills and YouTube analysis."
+work_here:
+  - "Personal OS plugin"
+  - "Obsidian skills"
+  - "youtube-analyze skill"
+  - "plugin packaging and public docs"
+not_here:
+  - "private personal skills and shared agent rules (kept out of this public repository)"
+  - "client and employer tooling"
 ---
 
 # Claude Powerups
